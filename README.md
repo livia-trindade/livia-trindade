@@ -1,4 +1,4 @@
-### Olá mundo ✨
+### hello world :D
 
 - 🔭 Estudo informática para internet no IF Baiano
 - 📌 Guanambi - Bahia
