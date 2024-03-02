@@ -7,7 +7,7 @@
 
 - 🔭 Estudo informática para internet no IF Baiano
 - 📌 Guanambi - Bahia
-- ⌛ 16 anos
+- ⌛ 17 anos
 - 📖 Estudando: PHP, Javascript
 - ✉️ Email: lliviatrindade@gmail.com
 
