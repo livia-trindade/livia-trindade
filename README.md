@@ -5,13 +5,9 @@
 
 ### hello world :D
 
-- 🔭 Técnica em Informática para Pnternet pelo IF Baiano
-- 📌 Guanambi - Bahia
-- ⌛ 18 anos
-- 📖 Estudando: PHP, Javascript
-- ✉️ Email: lliviatrindade@gmail.com
+- Técnica em Informática para Internet pelo IF Baiano - Campus Guanambi
+- Graduanda em Ciência da Computação na UESB
 
-   
 
 
 <div style="display: inline_block"><br>
